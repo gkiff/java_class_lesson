@@ -1,0 +1,4 @@
+public class Monster{
+  public final String TOMBSTONE = "Here lies a dead Monster!";
+  
+}
